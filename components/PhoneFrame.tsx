@@ -41,9 +41,9 @@ function PhonePlaceholder({ variant }: { variant: "primary" | "accent" }) {
          }}>
       <div className="h-14 w-14 rounded-2xl flex items-center justify-center text-2xl font-bold"
            style={{ background: accent, color: "#0a0a0a" }}>
-        D
+        H
       </div>
-      <div className="text-xs uppercase tracking-widest text-white/40">Drillr screen</div>
+      <div className="text-xs uppercase tracking-widest text-white/40">Hoopr screen</div>
       <div className="text-sm text-white/60 max-w-[180px]">App screenshot will appear here</div>
     </div>
   );

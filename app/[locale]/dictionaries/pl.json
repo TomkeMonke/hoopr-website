@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Drillr - trening piłkarski pod twoją pozycję",
+    "title": "Hoopr - trening piłkarski pod twoją pozycję",
     "description": "Aplikacja, która zna twoją pozycję. Jeden plan dopasowany do twojego poziomu, twojego tygodnia i celów, na których naprawdę ci zależy."
   },
   "nav": {
@@ -16,17 +16,17 @@
     "downloadGooglePlay": "Pobierz w Google Play",
     "appStoreKicker": "Pobierz w",
     "googlePlayKicker": "POBIERZ W",
-    "screenshotAlt": "Ekran aplikacji Drillr"
+    "screenshotAlt": "Ekran aplikacji Hoopr"
   },
   "hero": {
     "badge": "Pokochało nas 1600+ piłkarzy · ocena {rating}",
     "titleLine1": "Przestań tylko grać.",
     "titleLine2": "Zacznij dominować.",
-    "subtitle": "Drillr to aplikacja piłkarska, która naprawdę zna twoją pozycję. Dostajesz plan dopasowany do twojej roli, poziomu i czasu, jakim dysponujesz.",
+    "subtitle": "Hoopr to aplikacja piłkarska, która naprawdę zna twoją pozycję. Dostajesz plan dopasowany do twojej roli, poziomu i czasu, jakim dysponujesz.",
     "downloadCta": "Pobierz"
   },
   "usedBy": {
-    "title": "Z Drillr trenuje ponad 1600 graczy",
+    "title": "Z Hoopr trenuje ponad 1600 graczy",
     "subtitle": "Od juniorów po pół-zawodowców, w ponad 50 krajach, każdego dnia.",
     "stats": [
       { "value": "1600+", "label": "Aktywnych graczy" },
@@ -47,7 +47,7 @@
       {
         "eyebrow": "Krok 02",
         "title": "Trenuj codziennie",
-        "body": "Krótkie, uczciwe sesje. 15 minut dziennie wystarczy, żeby zmienić to, jak grasz, a Drillr pilnuje liczników za ciebie."
+        "body": "Krótkie, uczciwe sesje. 15 minut dziennie wystarczy, żeby zmienić to, jak grasz, a Hoopr pilnuje liczników za ciebie."
       },
       {
         "eyebrow": "Krok 03",
@@ -57,7 +57,7 @@
     ]
   },
   "features": {
-    "title": "Co znajdziesz w Drillr",
+    "title": "Co znajdziesz w Hoopr",
     "items": [
       {
         "title": "Ćwiczenia pod twoją pozycję",
@@ -98,7 +98,7 @@
       {
         "name": "Jakub W.",
         "role": "Bramkarz U19",
-        "quote": "Trening pod bramkarza w aplikacjach to rzadkość. Drillr to ogarnął. Refleks i praca nóg w górę."
+        "quote": "Trening pod bramkarza w aplikacjach to rzadkość. Hoopr to ogarnął. Refleks i praca nóg w górę."
       },
       {
         "name": "Maja L.",
@@ -115,7 +115,7 @@
   "positionPicker": {
     "badge": "Wybierz swoje miejsce",
     "title": "Na jakiej pozycji grasz?",
-    "subtitle": "Kliknij pozycję i zobacz, co Drillr z nią robi.",
+    "subtitle": "Kliknij pozycję i zobacz, co Hoopr z nią robi.",
     "focusBreakdown": "Rozkład treningu",
     "sampleDrills": "Przykładowe ćwiczenia",
     "viewPlan": "Zobacz pełny plan",
@@ -128,11 +128,11 @@
   },
   "faq": {
     "title": "Najczęstsze pytania",
-    "subtitle": "Wszystko, co musisz wiedzieć o Drillr",
+    "subtitle": "Wszystko, co musisz wiedzieć o Hoopr",
     "items": [
       {
         "q": "Czy potrzebuję sprzętu?",
-        "a": "Nie. Drillr dopasowuje się do tego, co masz. Powiedz nam podczas onboardingu, czy masz dostęp do siłowni, a zbudujemy plan wokół tego - sztanga, hantle, maszyny albo sam ciężar ciała."
+        "a": "Nie. Hoopr dopasowuje się do tego, co masz. Powiedz nam podczas onboardingu, czy masz dostęp do siłowni, a zbudujemy plan wokół tego - sztanga, hantle, maszyny albo sam ciężar ciała."
       },
       {
         "q": "Ile czasu dziennie?",
@@ -143,20 +143,20 @@
         "a": "Tak. Możesz przejść onboarding i zobaczyć fragment swojego planu za darmo. Pełny plan tygodniowy i reszta ćwiczeń są w subskrypcji."
       },
       {
-        "q": "Czy Drillr jest bezpieczny dla osób poniżej 13 lat?",
-        "a": "Drillr jest dla graczy w wieku 13+. Młodsi powinni trenować pod okiem trenera lub rodzica."
+        "q": "Czy Hoopr jest bezpieczny dla osób poniżej 13 lat?",
+        "a": "Hoopr jest dla graczy w wieku 13+. Młodsi powinni trenować pod okiem trenera lub rodzica."
       },
       {
         "q": "Dopiero zaczynam - czy to nie za trudne?",
-        "a": "Drillr dopasowuje się do twojego poziomu. Wybierasz go w onboardingu, a plan skaluje objętość i trudność pod ciebie. Ktoś, kto dopiero zaczyna, dostanie inny tydzień niż gracz, który już trenuje pięć dni w tygodniu w klubie."
+        "a": "Hoopr dopasowuje się do twojego poziomu. Wybierasz go w onboardingu, a plan skaluje objętość i trudność pod ciebie. Ktoś, kto dopiero zaczyna, dostanie inny tydzień niż gracz, który już trenuje pięć dni w tygodniu w klubie."
       },
       {
         "q": "Co jeśli gram na kilku pozycjach?",
         "a": "Wybierz tę, na której grasz najczęściej. Pozycję możesz zmienić w ustawieniach w dowolnym momencie, a plan przebuduje się pod nową rolę."
       },
       {
-        "q": "Czy mogę używać Drillr razem z planem trenera?",
-        "a": "Tak, wielu graczy tak robi. Drillr ma stać obok treningu klubowego, nie zamiast niego. Zmniejsz objętość tygodniową, gdy zaczniesz czuć się wypalony."
+        "q": "Czy mogę używać Hoopr razem z planem trenera?",
+        "a": "Tak, wielu graczy tak robi. Hoopr ma stać obok treningu klubowego, nie zamiast niego. Zmniejsz objętość tygodniową, gdy zaczniesz czuć się wypalony."
       },
       {
         "q": "Jak anulować subskrypcję?",
@@ -172,8 +172,8 @@
   },
   "positions": {
     "indexTitle": "Trening pod pozycję",
-    "indexSubtitle": "Każdy plan Drillr jest zbudowany wokół tego, czego naprawdę wymaga twoja pozycja.",
-    "downloadCta": "Pobierz Drillr dla pozycji: ",
+    "indexSubtitle": "Każdy plan Hoopr jest zbudowany wokół tego, czego naprawdę wymaga twoja pozycja.",
+    "downloadCta": "Pobierz Hoopr dla pozycji: ",
     "weekTitle": "Typowy tydzień",
     "drillsTitle": "Jak wyglądają twoje sesje",
     "strengthsTitle": "Twoja przewaga",
@@ -182,8 +182,8 @@
       "name": "Bramkarz",
       "codes": "GK",
       "tagline": "Refleks. Ustawienie. Komenda.",
-      "description": "Refleks i ustawienie to to, co robi z kogoś dobrego bramkarza. Drillr ostrzy oba - pracą nad reakcją, ruchem bocznym i stabilnością tułowia. Rzeczy, których większość aplikacji po prostu nie dotyka.",
-      "strengths": "Drillr buduje eksplozywną mobilność boczną, szybkość reakcji i stabilność, które oddzielają dobrych bramkarzy od świetnych.",
+      "description": "Refleks i ustawienie to to, co robi z kogoś dobrego bramkarza. Hoopr ostrzy oba - pracą nad reakcją, ruchem bocznym i stabilnością tułowia. Rzeczy, których większość aplikacji po prostu nie dotyka.",
+      "strengths": "Hoopr buduje eksplozywną mobilność boczną, szybkość reakcji i stabilność, które oddzielają dobrych bramkarzy od świetnych.",
       "weaknesses": "Większość bramkarzy po cichu pomija pracę boczną i siłę dolnej części ciała. My ci nie pozwolimy.",
       "drills": [
         { "name": "Reakcja z piłką", "spec": "3 × 60 s" },
@@ -203,8 +203,8 @@
       "name": "Obrońca",
       "codes": "CB · LB · RB",
       "tagline": "Wygraj każdy pojedynek.",
-      "description": "Gra w powietrzu, czyste odbiory, szybki powrót w obronę - wszystko zaczyna się na siłowni. Drillr buduje siłę i kondycję, które wygrywają 1v1 i wybijają piłki z pola karnego.",
-      "strengths": "Gra w powietrzu i moc w odbiorze zaczynają się na siłowni. Drillr trenuje oba, plus zwinność, którą większość obrońców po cichu pomija.",
+      "description": "Gra w powietrzu, czyste odbiory, szybki powrót w obronę - wszystko zaczyna się na siłowni. Hoopr buduje siłę i kondycję, które wygrywają 1v1 i wybijają piłki z pola karnego.",
+      "strengths": "Gra w powietrzu i moc w odbiorze zaczynają się na siłowni. Hoopr trenuje oba, plus zwinność, którą większość obrońców po cichu pomija.",
       "weaknesses": "Obrońcy często pomijają zwinność - szybkie nogi też ratują bramki. My pilnujemy, żebyś był ostry.",
       "drills": [
         { "name": "Przysiad ze sztangą", "spec": "4 × 6" },
@@ -224,9 +224,9 @@
       "name": "Pomocnik",
       "codes": "CDM · CM · CAM · LM · RM",
       "tagline": "Prowadź grę przez 90 minut.",
-      "description": "Środek pola wymaga wszystkiego naraz. Drillr buduje wytrzymałość, zwinność i mobilność, dzięki którym kontrolujesz grę od pierwszego do ostatniego gwizdka.",
-      "strengths": "Środek pola wymaga wszystkiego naraz. Drillr przygotowuje cię na całe 90 minut.",
-      "weaknesses": "Pomocnicy, którzy pomijają mobilność, częściej łapią urazy w końcówkach meczów. Drillr na to nie pozwoli.",
+      "description": "Środek pola wymaga wszystkiego naraz. Hoopr buduje wytrzymałość, zwinność i mobilność, dzięki którym kontrolujesz grę od pierwszego do ostatniego gwizdka.",
+      "strengths": "Środek pola wymaga wszystkiego naraz. Hoopr przygotowuje cię na całe 90 minut.",
+      "weaknesses": "Pomocnicy, którzy pomijają mobilność, częściej łapią urazy w końcówkach meczów. Hoopr na to nie pozwoli.",
       "drills": [
         { "name": "Sprinty interwałowe", "spec": "8 × 200 m" },
         { "name": "Wykroki w marszu", "spec": "3 × 12 na stronę" },
@@ -245,8 +245,8 @@
       "name": "Napastnik",
       "codes": "ST · CF · LW · RW",
       "tagline": "Wyprzedź. Wyskocz. Strzel.",
-      "description": "Eksplozywne przyspieszenie i ostre zmiany kierunku to twoja przewaga. Drillr trenuje szybkość, moc i zwinność, które wprowadzają cię za obrońcę, plus siłę, żeby go utrzymać, kiedy już tam dotrzesz.",
-      "strengths": "Eksplozywne przyspieszenie i ostre zmiany kierunku to twoja przewaga. Drillr trenuje to każdego tygodnia.",
+      "description": "Eksplozywne przyspieszenie i ostre zmiany kierunku to twoja przewaga. Hoopr trenuje szybkość, moc i zwinność, które wprowadzają cię za obrońcę, plus siłę, żeby go utrzymać, kiedy już tam dotrzesz.",
+      "strengths": "Eksplozywne przyspieszenie i ostre zmiany kierunku to twoja przewaga. Hoopr trenuje to każdego tygodnia.",
       "weaknesses": "Napastnicy, którzy pomijają siłę, przegrywają pojedynki przy linii. Pilnujemy, żebyś nie przegrał.",
       "drills": [
         { "name": "Depth jumps", "spec": "4 × 5" },
@@ -264,7 +264,7 @@
     }
   },
   "footer": {
-    "download": "Pobierz Drillr",
+    "download": "Pobierz Hoopr",
     "legal": "Informacje prawne",
     "company": "Firma",
     "training": "Trening",
@@ -275,7 +275,7 @@
     "manageSubscription": "Subskrypcja",
     "feedback": "Wyślij opinię",
     "support": "Pomoc",
-    "copyright": "© 2026 Drillr. Wszelkie prawa zastrzeżone."
+    "copyright": "© 2026 Hoopr. Wszelkie prawa zastrzeżone."
   },
   "feedback": {
     "title": "Wyślij opinię",
@@ -326,7 +326,7 @@
     "title": "Polityka prywatności",
     "lastUpdated": "Obowiązuje od 2026-07-03",
     "tocLabel": "Spis treści",
-    "intro": "Niniejsza Polityka prywatności dotyczy aplikacji Drillr (zwanej dalej \"Aplikacją\") na urządzenia mobilne, stworzonej przez Tomasza Święckiego (zwanego dalej \"Usługodawcą\") jako usługa Freemium. Usługa świadczona jest \"AS IS\" (w stanie, w jakim się znajduje).",
+    "intro": "Niniejsza Polityka prywatności dotyczy aplikacji Hoopr (zwanej dalej \"Aplikacją\") na urządzenia mobilne, stworzonej przez Tomasza Święckiego (zwanego dalej \"Usługodawcą\") jako usługa Freemium. Usługa świadczona jest \"AS IS\" (w stanie, w jakim się znajduje).",
     "sections": [
       {
         "heading": "Jakie informacje gromadzi Aplikacja i w jaki sposób są wykorzystywane?",
@@ -370,7 +370,7 @@
         "paragraphs": [
           "Aplikacja zawiera opcjonalną funkcję sprawdzania techniki, która korzysta z kamery twojego urządzenia. Kamera jest uruchamiana wyłącznie wtedy, gdy sam rozpoczniesz sprawdzanie techniki dla obsługiwanego ćwiczenia, i tylko po to, by nagrać krótki klip przedstawiający wykonywanie tego ćwiczenia. W każdej chwili możesz odmówić lub cofnąć zgodę na dostęp do kamery w ustawieniach urządzenia; pozostała część Aplikacji nadal działa bez niej.",
           "Nagrany klip jest analizowany w całości na twoim urządzeniu. Usługodawca nie otrzymuje, nie przesyła ani nie przechowuje twojego klipu na żadnym serwerze, klip nie jest automatycznie zapisywany w twojej bibliotece zdjęć i nie jest udostępniany żadnemu podmiotowi trzeciemu. W ramach tej funkcji Aplikacja nie nagrywa dźwięku.",
-          "Jeśli zdecydujesz się udostępnić klip za pomocą opcji udostępniania, Aplikacja tworzy wersję ze znakiem wodnym Drillr i naniesionymi informacjami zwrotnymi o technice, a następnie przekazuje ją do standardowego arkusza udostępniania twojego urządzenia. Od momentu wybrania miejsca docelowego (na przykład komunikatora, sieci społecznościowej lub kontaktu) klip podlega regulaminowi i polityce prywatności danej usługi lub odbiorcy, a nie niniejszej Polityce, i Usługodawca nie ma kontroli nad sposobem ich postępowania z nim. Udostępniaj wyłącznie klipy z własnym udziałem i nie udostępniaj klipów przedstawiających inne osoby bez ich zgody."
+          "Jeśli zdecydujesz się udostępnić klip za pomocą opcji udostępniania, Aplikacja tworzy wersję ze znakiem wodnym Hoopr i naniesionymi informacjami zwrotnymi o technice, a następnie przekazuje ją do standardowego arkusza udostępniania twojego urządzenia. Od momentu wybrania miejsca docelowego (na przykład komunikatora, sieci społecznościowej lub kontaktu) klip podlega regulaminowi i polityce prywatności danej usługi lub odbiorcy, a nie niniejszej Polityce, i Usługodawca nie ma kontroli nad sposobem ich postępowania z nim. Udostępniaj wyłącznie klipy z własnym udziałem i nie udostępniaj klipów przedstawiających inne osoby bez ich zgody."
         ]
       },
       {
@@ -446,7 +446,7 @@
         "paragraphs": [
           "Aplikacja jest przeznaczona dla użytkowników w wieku 13 lat i starszych. Usługodawca nie zbiera świadomie danych od dzieci poniżej 13. roku życia ani nie kieruje do nich treści marketingowych.",
           "W niektórych krajach minimalny wiek wyrażenia zgody na przetwarzanie danych osobowych jest wyższy niż 13 lat - na przykład 16 lat w Polsce i części Unii Europejskiej. Aplikacja jest dostępna dla użytkowników w wieku 13 lat i starszych we wszystkich krajach. Jeśli masz co najmniej 13 lat, ale jesteś poniżej wieku zgody cyfrowej obowiązującego w twoim kraju, możesz korzystać z Aplikacji i podawać swoje dane osobowe wyłącznie przy udziale i za zgodą rodzica lub opiekuna prawnego, który akceptuje niniejszą Politykę w twoim imieniu.",
-          "Użytkownicy, którzy podczas onboardingu zaznaczą wiek poniżej 13 lat, nie mogą założyć konta. Aplikacja wyświetla komunikat, że Drillr jest przeznaczony dla osób w wieku 13 lat i starszych, i nie tworzy żadnego profilu w systemach Usługodawcy.",
+          "Użytkownicy, którzy podczas onboardingu zaznaczą wiek poniżej 13 lat, nie mogą założyć konta. Aplikacja wyświetla komunikat, że Hoopr jest przeznaczony dla osób w wieku 13 lat i starszych, i nie tworzy żadnego profilu w systemach Usługodawcy.",
           "Niewielka liczba kont założonych przed wprowadzeniem tej blokady wiekowej pozostaje w Usłudze w starszym Trybie Ograniczonym. W Trybie Ograniczonym Aplikacja nie zbiera danych osobowych takich jak płeć, wzrost, waga czy data urodzenia. Przechowywany jest wyłącznie adres e-mail w celu uwierzytelnienia konta. Żadne dane osobowe użytkowników w Trybie Ograniczonym nie są udostępniane podmiotom trzecim ani wykorzystywane do profilowania lub marketingu.",
           "Jeśli jesteś rodzicem lub opiekunem i wiesz, że twoje dziecko przekazało nam dane osobowe, skontaktuj się z Usługodawcą (drillrapps@gmail.com), aby mógł podjąć odpowiednie działania, w tym usunięcie konta."
         ]
@@ -476,18 +476,18 @@
         ]
       }
     ],
-    "crossLink": { "label": "Regulamin Drillr", "href": "/terms" }
+    "crossLink": { "label": "Regulamin Hoopr", "href": "/terms" }
   },
   "terms": {
     "title": "Regulamin",
     "lastUpdated": "Obowiązuje od 2026-07-03",
     "tocLabel": "Spis treści",
-    "intro": "Niniejszy regulamin dotyczy aplikacji Drillr (zwanej dalej \"Aplikacją\") na urządzenia mobilne, stworzonej przez Tomasza Święckiego (zwanego dalej \"Usługodawcą\") jako usługa Freemium.",
+    "intro": "Niniejszy regulamin dotyczy aplikacji Hoopr (zwanej dalej \"Aplikacją\") na urządzenia mobilne, stworzonej przez Tomasza Święckiego (zwanego dalej \"Usługodawcą\") jako usługa Freemium.",
     "sections": [
       {
         "heading": "Akceptacja regulaminu",
         "paragraphs": [
-          "Pobierając Aplikację, zakładając konto, logując się do niej lub w inny sposób z niej korzystając, akceptujesz niniejszy Regulamin oraz Politykę prywatności Drillr, która zostaje włączona do niniejszego regulaminu przez odniesienie - w tym analitykę i przetwarzanie danych opisane w tej Polityce. Zalecamy dokładne przeczytanie i zrozumienie obu dokumentów przed rozpoczęciem korzystania z Aplikacji. Jeśli się nie zgadzasz, nie korzystaj z Aplikacji."
+          "Pobierając Aplikację, zakładając konto, logując się do niej lub w inny sposób z niej korzystając, akceptujesz niniejszy Regulamin oraz Politykę prywatności Hoopr, która zostaje włączona do niniejszego regulaminu przez odniesienie - w tym analitykę i przetwarzanie danych opisane w tej Polityce. Zalecamy dokładne przeczytanie i zrozumienie obu dokumentów przed rozpoczęciem korzystania z Aplikacji. Jeśli się nie zgadzasz, nie korzystaj z Aplikacji."
         ]
       },
       {
@@ -557,7 +557,7 @@
       {
         "heading": "Subskrypcje i plany płatne",
         "paragraphs": [
-          "Aplikacja oferuje automatycznie odnawiające się subskrypcje (\"Drillr Pro\"), które dają dostęp do funkcji premium. Poniższe warunki dotyczą wszystkich płatnych subskrypcji:"
+          "Aplikacja oferuje automatycznie odnawiające się subskrypcje (\"Hoopr Pro\"), które dają dostęp do funkcji premium. Poniższe warunki dotyczą wszystkich płatnych subskrypcji:"
         ],
         "bullets": [
           "Dostępne plany, ceny i okresy są wyświetlane w Aplikacji przed zakupem.",
@@ -612,6 +612,6 @@
         ]
       }
     ],
-    "crossLink": { "label": "Polityka prywatności Drillr", "href": "/privacy" }
+    "crossLink": { "label": "Polityka prywatności Hoopr", "href": "/privacy" }
   }
 }

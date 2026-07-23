@@ -35,12 +35,12 @@ export async function generateMetadata({
     metadataBase: new URL("https://getdrillr.app"),
     // Template suffixes subpage titles; canonical/hreflang are set per page
     // (a canonical inherited from the layout would point every subpage home).
-    title: { default: dict.meta.title, template: "%s - Drillr" },
+    title: { default: dict.meta.title, template: "%s - Hoopr" },
     description: dict.meta.description,
     icons: { icon: "/favicon.png" },
     openGraph: {
       type: "website",
-      siteName: "Drillr",
+      siteName: "Hoopr",
       title: dict.meta.title,
       description: dict.meta.description,
       locale: locale === "pl" ? "pl_PL" : "en_US",

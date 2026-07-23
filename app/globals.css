@@ -16,7 +16,8 @@
   /* RGB channels of --accent, for rgba() glows/shadows. Keep in sync. */
   --accent-rgb: 232, 164, 74;
   --success: #3a9a6a;
-  --pitch: #1b3a1f;
+  /* Basketball hardwood-court tone (was football --pitch green). Currently unused. */
+  --court: #2e1e12;
 }
 
 @theme inline {
@@ -31,7 +32,7 @@
   --color-primary-dark: var(--primary-dark);
   --color-accent: var(--accent);
   --color-success: var(--success);
-  --color-pitch: var(--pitch);
+  --color-court: var(--court);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }

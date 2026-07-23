@@ -1,7 +1,7 @@
 import "server-only";
 
 const APP_STORE_ID = "6761615321";
-// Storefronts where Drillr has ratings today; the iTunes lookup API has no
+// Storefronts where Hoopr has ratings today; the iTunes lookup API has no
 // worldwide aggregate, so we weight the ones that matter by rating count.
 const STOREFRONTS = ["pl", "us"] as const;
 // Shown when the lookup fails or returns no ratings, so the homepage never

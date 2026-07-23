@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Drillr - football training for your position",
+    "title": "Hoopr - football training for your position",
     "description": "A training app that knows your position. One plan, built around your level, your week, and the goals you actually care about."
   },
   "nav": {
@@ -16,13 +16,13 @@
     "downloadGooglePlay": "Get it on Google Play",
     "appStoreKicker": "Download on the",
     "googlePlayKicker": "GET IT ON",
-    "screenshotAlt": "Drillr app screen"
+    "screenshotAlt": "Hoopr app screen"
   },
   "hero": {
     "badge": "Loved by 1600+ players · {rating} rating",
     "titleLine1": "Stop playing.",
     "titleLine2": "Start dominating.",
-    "subtitle": "Drillr is the football training app that actually knows your position. You get a plan shaped to your role, your level, and the time you've got.",
+    "subtitle": "Hoopr is the football training app that actually knows your position. You get a plan shaped to your role, your level, and the time you've got.",
     "downloadCta": "Download"
   },
   "usedBy": {
@@ -47,7 +47,7 @@
       {
         "eyebrow": "Step 02",
         "title": "Train every day",
-        "body": "Short, honest sessions. 15 minutes a day is enough to change how you play, and Drillr keeps count for you."
+        "body": "Short, honest sessions. 15 minutes a day is enough to change how you play, and Hoopr keeps count for you."
       },
       {
         "eyebrow": "Step 03",
@@ -57,7 +57,7 @@
     ]
   },
   "features": {
-    "title": "What's inside Drillr",
+    "title": "What's inside Hoopr",
     "items": [
       {
         "title": "Drills chosen for your spot",
@@ -98,7 +98,7 @@
       {
         "name": "Jakub W.",
         "role": "U19 Goalkeeper",
-        "quote": "Goalkeeper-specific work is rare in apps. Drillr nails it. My reactions and footwork are both up."
+        "quote": "Goalkeeper-specific work is rare in apps. Hoopr nails it. My reactions and footwork are both up."
       },
       {
         "name": "Maya L.",
@@ -115,7 +115,7 @@
   "positionPicker": {
     "badge": "Pick your spot",
     "title": "What position do you play?",
-    "subtitle": "Tap a position to see what Drillr does for it.",
+    "subtitle": "Tap a position to see what Hoopr does for it.",
     "focusBreakdown": "Focus breakdown",
     "sampleDrills": "Sample drills",
     "viewPlan": "See full plan",
@@ -128,11 +128,11 @@
   },
   "faq": {
     "title": "Frequently asked questions",
-    "subtitle": "Everything you need to know about Drillr",
+    "subtitle": "Everything you need to know about Hoopr",
     "items": [
       {
         "q": "Do I need any equipment?",
-        "a": "No. Drillr adapts to what you have. Tell us during onboarding whether you've got gym access, and we'll build your plan around it - barbell, dumbbells, machines, or just bodyweight."
+        "a": "No. Hoopr adapts to what you have. Tell us during onboarding whether you've got gym access, and we'll build your plan around it - barbell, dumbbells, machines, or just bodyweight."
       },
       {
         "q": "How much time per day?",
@@ -143,20 +143,20 @@
         "a": "Yes. You can go through onboarding and try a sample of your plan for free. The full weekly plan and the rest of the drills are behind a subscription."
       },
       {
-        "q": "Is Drillr safe for under-13s?",
-        "a": "Drillr is built for ages 13 and up. Younger players should train under the eye of a coach or parent."
+        "q": "Is Hoopr safe for under-13s?",
+        "a": "Hoopr is built for ages 13 and up. Younger players should train under the eye of a coach or parent."
       },
       {
         "q": "I'm just starting out - is this too advanced?",
-        "a": "Drillr meets you where you are. You set your level during onboarding, and the plan scales volume and difficulty around it. A first-time trainer gets a different week than someone already playing club football five days a week."
+        "a": "Hoopr meets you where you are. You set your level during onboarding, and the plan scales volume and difficulty around it. A first-time trainer gets a different week than someone already playing club football five days a week."
       },
       {
         "q": "What if I play multiple positions?",
         "a": "Pick the one you play most often. You can switch positions any time in settings and your plan will rebuild around the new one."
       },
       {
-        "q": "Can I use Drillr alongside my coach's program?",
-        "a": "Yes, loads of players do. Drillr is meant to sit next to team training, not replace it. Dial down your weekly volume if you start feeling cooked."
+        "q": "Can I use Hoopr alongside my coach's program?",
+        "a": "Yes, loads of players do. Hoopr is meant to sit next to team training, not replace it. Dial down your weekly volume if you start feeling cooked."
       },
       {
         "q": "How do I cancel my subscription?",
@@ -172,8 +172,8 @@
   },
   "positions": {
     "indexTitle": "Train by position",
-    "indexSubtitle": "Every Drillr plan is shaped around what your position actually demands.",
-    "downloadCta": "Download Drillr for ",
+    "indexSubtitle": "Every Hoopr plan is shaped around what your position actually demands.",
+    "downloadCta": "Download Hoopr for ",
     "weekTitle": "A typical week",
     "drillsTitle": "What your sessions look like",
     "strengthsTitle": "Your edge",
@@ -182,8 +182,8 @@
       "name": "Goalkeeper",
       "codes": "GK",
       "tagline": "Reactions. Positioning. Command.",
-      "description": "Reflexes and positioning are what make great keepers. Drillr sharpens both with reaction work, lateral movement, and core stability - the stuff most apps skip.",
-      "strengths": "Drillr builds the explosive lateral mobility, reaction speed, and core stability that separate good keepers from great ones.",
+      "description": "Reflexes and positioning are what make great keepers. Hoopr sharpens both with reaction work, lateral movement, and core stability - the stuff most apps skip.",
+      "strengths": "Hoopr builds the explosive lateral mobility, reaction speed, and core stability that separate good keepers from great ones.",
       "weaknesses": "Most keepers quietly skip lateral mobility and lower-body power. We won't let you.",
       "drills": [
         { "name": "Reaction ball drills", "spec": "3 × 60s" },
@@ -203,8 +203,8 @@
       "name": "Defender",
       "codes": "CB · LB · RB",
       "tagline": "Win every duel.",
-      "description": "Aerial wins, clean tackles, quick recovery runs - it all starts in the gym. Drillr builds the strength and stamina that carry 1v1s and clear lines.",
-      "strengths": "Aerial wins and tackling power start in the gym. Drillr trains both, plus the agility most defenders quietly skip.",
+      "description": "Aerial wins, clean tackles, quick recovery runs - it all starts in the gym. Hoopr builds the strength and stamina that carry 1v1s and clear lines.",
+      "strengths": "Aerial wins and tackling power start in the gym. Hoopr trains both, plus the agility most defenders quietly skip.",
       "weaknesses": "Defenders often skip agility - quick feet save goals too. We keep yours sharp.",
       "drills": [
         { "name": "Barbell squat", "spec": "4 × 6" },
@@ -224,9 +224,9 @@
       "name": "Midfielder",
       "codes": "CDM · CM · CAM · LM · RM",
       "tagline": "Run the game for 90 minutes.",
-      "description": "Box-to-box asks for the full toolkit. Drillr builds the engine, the agility, and the mobility you need to run the middle from the first whistle to the last.",
-      "strengths": "Box-to-box asks for the full toolkit. Drillr gets you ready for the whole 90.",
-      "weaknesses": "Central midfielders who skip mobility pick up more late-game injuries. Drillr won't let that slide.",
+      "description": "Box-to-box asks for the full toolkit. Hoopr builds the engine, the agility, and the mobility you need to run the middle from the first whistle to the last.",
+      "strengths": "Box-to-box asks for the full toolkit. Hoopr gets you ready for the whole 90.",
+      "weaknesses": "Central midfielders who skip mobility pick up more late-game injuries. Hoopr won't let that slide.",
       "drills": [
         { "name": "Interval sprints", "spec": "8 × 200m" },
         { "name": "Walking lunges", "spec": "3 × 12 each" },
@@ -245,8 +245,8 @@
       "name": "Forward",
       "codes": "ST · CF · LW · RW",
       "tagline": "Outpace. Outjump. Outscore.",
-      "description": "Explosive acceleration and sharp changes of direction are your edge. Drillr trains the pace, the power, and the agility that get you in behind, plus the strength to hold defenders off when you do.",
-      "strengths": "Explosive acceleration and sharp changes of direction are your edge. Drillr trains them every single week.",
+      "description": "Explosive acceleration and sharp changes of direction are your edge. Hoopr trains the pace, the power, and the agility that get you in behind, plus the strength to hold defenders off when you do.",
+      "strengths": "Explosive acceleration and sharp changes of direction are your edge. Hoopr trains them every single week.",
       "weaknesses": "Forwards who skip strength lose the touchline duels. We make sure you don't.",
       "drills": [
         { "name": "Depth jumps", "spec": "4 × 5" },
@@ -264,7 +264,7 @@
     }
   },
   "footer": {
-    "download": "Download Drillr",
+    "download": "Download Hoopr",
     "legal": "Legal",
     "company": "Company",
     "training": "Training",
@@ -275,7 +275,7 @@
     "manageSubscription": "Manage Subscription",
     "feedback": "Feedback",
     "support": "Support",
-    "copyright": "© 2026 Drillr. All rights reserved."
+    "copyright": "© 2026 Hoopr. All rights reserved."
   },
   "feedback": {
     "title": "Send Feedback",
@@ -326,7 +326,7 @@
     "title": "Privacy Policy",
     "lastUpdated": "Effective 2026-07-03",
     "tocLabel": "Table of Contents",
-    "intro": "This privacy policy is applicable to the Drillr app (hereinafter referred to as \"Application\") for mobile devices, which was developed by Tomasz Święcki (hereinafter referred to as \"Service Provider\") as a Freemium service. This service is provided \"AS IS\".",
+    "intro": "This privacy policy is applicable to the Hoopr app (hereinafter referred to as \"Application\") for mobile devices, which was developed by Tomasz Święcki (hereinafter referred to as \"Service Provider\") as a Freemium service. This service is provided \"AS IS\".",
     "sections": [
       {
         "heading": "What information does the Application obtain and how is it used?",
@@ -370,7 +370,7 @@
         "paragraphs": [
           "The Application includes an optional form-check feature that uses your device's camera. The camera is accessed only when you choose to start a form check for a supported exercise, and only to record a short clip of you performing that exercise. You can decline or revoke the camera permission at any time in your device settings; the rest of the Application continues to work without it.",
           "The recorded clip is analyzed entirely on your device. The Service Provider does not receive, upload, or store your clip on any server, the clip is not saved to your photo library automatically, and it is not shared with any third party. The Application does not record audio as part of this feature.",
-          "If you choose to share a clip using the share option, the Application creates a version with a Drillr watermark and the on-screen form feedback drawn into it, and hands it to your device's standard share sheet. From the moment you select a destination (for example a messaging app, social network, or contact), the clip is governed by that service's or recipient's own terms and privacy policy, not by this Policy, and the Service Provider has no control over how they handle it. Please only share clips of yourself, and do not share clips showing other people without their consent."
+          "If you choose to share a clip using the share option, the Application creates a version with a Hoopr watermark and the on-screen form feedback drawn into it, and hands it to your device's standard share sheet. From the moment you select a destination (for example a messaging app, social network, or contact), the clip is governed by that service's or recipient's own terms and privacy policy, not by this Policy, and the Service Provider has no control over how they handle it. Please only share clips of yourself, and do not share clips showing other people without their consent."
         ]
       },
       {
@@ -446,7 +446,7 @@
         "paragraphs": [
           "The Application is intended for users aged 13 and older. The Service Provider does not knowingly solicit data from or market to children under the age of 13.",
           "In some countries the minimum age for consenting to the processing of personal data is higher than 13 - for example, 16 in Poland and parts of the European Union. The Application is available to users aged 13 and older everywhere. If you are at least 13 but below the digital-consent age in your country, you may use the Application and provide your personal data only with the involvement and consent of a parent or legal guardian, who accepts this Policy on your behalf.",
-          "Users who indicate during onboarding that they are under the age of 13 cannot create an account. The Application displays a message that Drillr is for ages 13 and up, and no profile is created on the Service Provider's systems.",
+          "Users who indicate during onboarding that they are under the age of 13 cannot create an account. The Application displays a message that Hoopr is for ages 13 and up, and no profile is created on the Service Provider's systems.",
           "A small number of accounts created before this age gate took effect remain on the Service in a legacy Restricted Mode. In Restricted Mode, the Application does not collect personal details such as gender, height, weight, or date of birth. Only an email address is retained for account authentication purposes. No personal data from Restricted Mode users is shared with third parties or used for profiling or marketing.",
           "If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (drillrapps@gmail.com) so that they will be able to take the necessary actions, including account deletion."
         ]
@@ -476,18 +476,18 @@
         ]
       }
     ],
-    "crossLink": { "label": "Drillr Terms of Service", "href": "/terms" }
+    "crossLink": { "label": "Hoopr Terms of Service", "href": "/terms" }
   },
   "terms": {
     "title": "Terms of Service",
     "lastUpdated": "Effective 2026-07-03",
     "tocLabel": "Table of Contents",
-    "intro": "These terms of service apply to the Drillr app (hereby referred to as \"Application\") for mobile devices that was created by Tomasz Święcki (hereby referred to as \"Service Provider\") as a Freemium service.",
+    "intro": "These terms of service apply to the Hoopr app (hereby referred to as \"Application\") for mobile devices that was created by Tomasz Święcki (hereby referred to as \"Service Provider\") as a Freemium service.",
     "sections": [
       {
         "heading": "Acceptance of Terms",
         "paragraphs": [
-          "By downloading, creating an account, signing in to, or otherwise using the Application, you agree to these Terms of Service and to the Drillr Privacy Policy, which is incorporated into these terms by reference - including the analytics and data processing described in that Policy. It is strongly advised that you thoroughly read and understand both documents prior to using the Application. If you do not agree, do not use the Application."
+          "By downloading, creating an account, signing in to, or otherwise using the Application, you agree to these Terms of Service and to the Hoopr Privacy Policy, which is incorporated into these terms by reference - including the analytics and data processing described in that Policy. It is strongly advised that you thoroughly read and understand both documents prior to using the Application. If you do not agree, do not use the Application."
         ]
       },
       {
@@ -557,7 +557,7 @@
       {
         "heading": "Subscriptions and Paid Plans",
         "paragraphs": [
-          "The Application offers auto-renewing subscriptions (\"Drillr Pro\") that grant access to premium features. The following terms apply to all paid subscriptions:"
+          "The Application offers auto-renewing subscriptions (\"Hoopr Pro\") that grant access to premium features. The following terms apply to all paid subscriptions:"
         ],
         "bullets": [
           "The available plans, pricing, and duration are shown within the Application prior to purchase.",
@@ -612,6 +612,6 @@
         ]
       }
     ],
-    "crossLink": { "label": "Drillr Privacy Policy", "href": "/privacy" }
+    "crossLink": { "label": "Hoopr Privacy Policy", "href": "/privacy" }
   }
 }

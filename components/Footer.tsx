@@ -23,10 +23,10 @@ export function Footer({ locale, dict }: Props) {
         }`}
       >
         <div>
-          <Link href={base} className="flex items-center mb-5" aria-label="Drillr">
+          <Link href={base} className="flex items-center mb-5" aria-label="Hoopr">
             <Image
               src="/logo-full.png"
-              alt="Drillr"
+              alt="Hoopr"
               width={660}
               height={207}
               sizes="(max-width: 640px) 112px, (max-width: 1024px) 128px, (max-width: 1280px) 144px, (max-width: 1536px) 160px, 176px"

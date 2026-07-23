@@ -4,7 +4,7 @@ import { join } from "node:path";
 import { isLocale } from "@/lib/locales";
 import { BRAND } from "@/lib/brand";
 
-export const alt = "Drillr - football training that knows your position";
+export const alt = "Hoopr - football training that knows your position";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
