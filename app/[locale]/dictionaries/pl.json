@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Hoopr - trening piłkarski pod twoją pozycję",
+    "title": "Hoopr - trening koszykarski pod twoją pozycję",
     "description": "Aplikacja, która zna twoją pozycję. Jeden plan dopasowany do twojego poziomu, twojego tygodnia i celów, na których naprawdę ci zależy."
   },
   "nav": {
@@ -19,10 +19,10 @@
     "screenshotAlt": "Ekran aplikacji Hoopr"
   },
   "hero": {
-    "badge": "Pokochało nas 1600+ piłkarzy · ocena {rating}",
+    "badge": "Pokochało nas 1600+ koszykarzy · ocena {rating}",
     "titleLine1": "Przestań tylko grać.",
     "titleLine2": "Zacznij dominować.",
-    "subtitle": "Hoopr to aplikacja piłkarska, która naprawdę zna twoją pozycję. Dostajesz plan dopasowany do twojej roli, poziomu i czasu, jakim dysponujesz.",
+    "subtitle": "Hoopr to aplikacja koszykarska, która naprawdę zna twoją pozycję. Dostajesz plan dopasowany do twojej roli, poziomu i czasu, jakim dysponujesz.",
     "downloadCta": "Pobierz"
   },
   "usedBy": {
@@ -42,7 +42,7 @@
       {
         "eyebrow": "Krok 01",
         "title": "Wybierz pozycję",
-        "body": "Napastnik, skrzydłowy, bramkarz, niezależnie od pozycji. Budujemy plan wokół tego, czego naprawdę wymaga twoja pozycja."
+        "body": "Rozgrywający, skrzydłowy, center, niezależnie od pozycji. Budujemy plan wokół tego, czego naprawdę wymaga twoja pozycja."
       },
       {
         "eyebrow": "Krok 02",
@@ -61,7 +61,7 @@
     "items": [
       {
         "title": "Ćwiczenia pod twoją pozycję",
-        "body": "Bramkarz, obrońca, pomocnik, napastnik. Każde ćwiczenie dobrane pod to, czego naprawdę wymaga twoja pozycja."
+        "body": "Rozgrywający, rzucający obrońca, niski skrzydłowy, silny skrzydłowy, center. Każde ćwiczenie dobrane pod to, czego naprawdę wymaga twoja pozycja."
       },
       {
         "title": "Kalendarz, który pasuje do tygodnia",
@@ -73,7 +73,7 @@
       },
       {
         "title": "Rozciąganie pod twój mecz",
-        "body": "Mobilność celowana w mięśnie, których naprawdę używasz na boisku, a nie ogólny cooldown."
+        "body": "Mobilność celowana w mięśnie, których naprawdę używasz na parkiecie, a nie ogólny cooldown."
       }
     ]
   },
@@ -82,33 +82,33 @@
     "items": [
       {
         "name": "Alex M.",
-        "role": "Pomocnik U17",
-        "quote": "Szczerze nie spodziewałem się wiele, ale po miesiącu trener powiedział, że ustawiam się znacznie lepiej. Kondycja też jest kosmiczna."
+        "role": "Rozgrywający U17",
+        "quote": "Szczerze nie spodziewałem się wiele, ale po miesiącu trener powiedział, że mój drybling i pierwszy krok wyglądają znacznie lepiej. Kondycja to niebo a ziemia."
       },
       {
         "name": "Sara K.",
-        "role": "Obrońca U16",
+        "role": "Obrończyni w lidze szkolnej",
         "quote": "Koleżanka pokazała mi appkę i teraz jestem na niej codziennie. Drille naprawdę pasują do mojej pozycji."
       },
       {
         "name": "Daniel R.",
-        "role": "Pół-zawodowy napastnik",
+        "role": "Pół-zawodowy skrzydłowy",
         "quote": "Najbardziej kupiło mnie to, że wszystko jest pod konkretną pozycję. Każde ćwiczenie czuję jak swoje."
       },
       {
         "name": "Jakub W.",
-        "role": "Bramkarz U19",
-        "quote": "Trening pod bramkarza w aplikacjach to rzadkość. Hoopr to ogarnął. Refleks i praca nóg w górę."
+        "role": "Środkowy w koledżu",
+        "quote": "Trening pod wysokich w aplikacjach to rzadkość. Hoopr to ogarnął. Zbiórki i drugi wyskok w górę."
       },
       {
         "name": "Maja L.",
-        "role": "Pomocnik z akademii",
+        "role": "Rozgrywająca z akademii",
         "quote": "Uwielbiam kalendarz - dopasowuje się, kiedy opuszczę dzień, zamiast robić wyrzuty."
       },
       {
         "name": "Tomasz B.",
-        "role": "Obrońca w lidze niedzielnej",
-        "quote": "30 minut dziennie, 4 razy w tygodniu i czuję się jak inny zawodnik w niedziele."
+        "role": "Skrzydłowy w lidze amatorskiej",
+        "quote": "30 minut dziennie, 4 razy w tygodniu i czuję się jak inny zawodnik w dniu meczu."
       }
     ]
   },
@@ -178,88 +178,109 @@
     "drillsTitle": "Jak wyglądają twoje sesje",
     "strengthsTitle": "Twoja przewaga",
     "weaknessTitle": "Co naprawimy",
-    "goalkeeper": {
-      "name": "Bramkarz",
-      "codes": "GK",
-      "tagline": "Refleks. Ustawienie. Komenda.",
-      "description": "Refleks i ustawienie to to, co robi z kogoś dobrego bramkarza. Hoopr ostrzy oba - pracą nad reakcją, ruchem bocznym i stabilnością tułowia. Rzeczy, których większość aplikacji po prostu nie dotyka.",
-      "strengths": "Hoopr buduje eksplozywną mobilność boczną, szybkość reakcji i stabilność, które oddzielają dobrych bramkarzy od świetnych.",
-      "weaknesses": "Większość bramkarzy po cichu pomija pracę boczną i siłę dolnej części ciała. My ci nie pozwolimy.",
+    "point-guard": {
+      "name": "Rozgrywający",
+      "codes": "PG · 1",
+      "tagline": "Prowadź akcję.",
+      "description": "Rozgrywający żyje z szybkości, dryblingu i niekończącej się kondycji. Hoopr wyostrza twój pierwszy krok, zmianę tempa i wytrzymałość, żeby narzucać rytm przez cały mecz.",
+      "strengths": "Eksplozywny pierwszy krok, stabilny drybling i kondycja, by prowadzić grę od pierwszej do ostatniej minuty - Hoopr trenuje wszystkie trzy.",
+      "weaknesses": "Obrońcy, którzy pomijają siłę, przegrywają przy zmianach. Budujemy tułów i moc nóg, żebyś utrzymał pozycję.",
       "drills": [
-        { "name": "Reakcja z piłką", "spec": "3 × 60 s" },
-        { "name": "Marsz boczny z gumą", "spec": "4 × 12" },
-        { "name": "Przysiady na jednej nodze", "spec": "3 × 8 na stronę" },
+        { "name": "Drabinka szybkości bocznej", "spec": "5 serii" },
+        { "name": "Skoki jednonóż", "spec": "4 × 6 na stronę" },
+        { "name": "Sprinty interwałowe", "spec": "8 × 100 m" },
+        { "name": "Pallof press", "spec": "3 × 12 na stronę" }
+      ],
+      "week": [
+        { "day": "Pn", "session": "Szybkość i zwinność" },
+        { "day": "Wt", "session": "Siła dolnej części ciała" },
+        { "day": "Śr", "session": "Interwały kondycyjne" },
+        { "day": "Czw", "session": "Tułów i stabilność" },
+        { "day": "Pt", "session": "Mobilność i regeneracja" }
+      ]
+    },
+    "shooting-guard": {
+      "name": "Rzucający obrońca",
+      "codes": "SG · 2",
+      "tagline": "Dojdź na swoje pozycje.",
+      "description": "Wychodzenie z zasłon, wyskok do rzutu i bieganie po skrzydle wymaga eksplozywnych nóg i powtarzalnej techniki. Hoopr buduje wyskok, szybkość boczną i wytrzymałość, żeby twój rzut był pewny do końca.",
+      "strengths": "Eksplozywny wyskok i ostre wejścia to twoja przewaga. Hoopr trenuje skok, tempo i równowagę stojące za powtarzalnym rzutem.",
+      "weaknesses": "Strzelcy, którzy zaniedbują kondycję, tracą nogi - i skuteczność - w czwartej kwarcie. Pilnujemy, żebyś był świeży.",
+      "drills": [
+        { "name": "Depth jumps", "spec": "4 × 5" },
+        { "name": "Przesuwy boczne", "spec": "5 serii" },
+        { "name": "Przysiady bułgarskie ze skokiem", "spec": "4 × 8" },
         { "name": "Plank z wyciągnięciem", "spec": "3 × 45 s" }
       ],
       "week": [
-        { "day": "Pn", "session": "Siła dolnej części ciała" },
-        { "day": "Wt", "session": "Reakcje i praca nóg" },
-        { "day": "Śr", "session": "Tułów i stabilność" },
-        { "day": "Czw", "session": "Regeneracja i stretching" },
-        { "day": "Pt", "session": "Plyometria i eksplozywność" }
+        { "day": "Pn", "session": "Eksplozywne nogi" },
+        { "day": "Wt", "session": "Szybkość i praca nóg" },
+        { "day": "Śr", "session": "Kondycja" },
+        { "day": "Czw", "session": "Siła górnej części ciała" },
+        { "day": "Pt", "session": "Plyometria i mobilność" }
       ]
     },
-    "defender": {
-      "name": "Obrońca",
-      "codes": "CB · LB · RB",
-      "tagline": "Wygraj każdy pojedynek.",
-      "description": "Gra w powietrzu, czyste odbiory, szybki powrót w obronę - wszystko zaczyna się na siłowni. Hoopr buduje siłę i kondycję, które wygrywają 1v1 i wybijają piłki z pola karnego.",
-      "strengths": "Gra w powietrzu i moc w odbiorze zaczynają się na siłowni. Hoopr trenuje oba, plus zwinność, którą większość obrońców po cichu pomija.",
-      "weaknesses": "Obrońcy często pomijają zwinność - szybkie nogi też ratują bramki. My pilnujemy, żebyś był ostry.",
+    "small-forward": {
+      "name": "Niski skrzydłowy",
+      "codes": "SF · 3",
+      "tagline": "Rób wszystko.",
+      "description": "Skrzydłowy musi bronić każdego i zdobywać punkty na każdy sposób. Hoopr buduje dwukierunkowy silnik - siłę do kończenia w kontakcie, zwinność do zmian i mobilność na cały mecz.",
+      "strengths": "Uniwersalność po obu stronach wymaga pełnego zestawu. Hoopr buduje siłę, szybkość i wytrzymałość, żebyś robił po trochu wszystkiego.",
+      "weaknesses": "Skrzydłowi, którzy pomijają mobilność, wysiadają w końcówkach i łapią urazy mięśniowe. Hoopr utrzymuje cię w formie.",
       "drills": [
-        { "name": "Przysiad ze sztangą", "spec": "4 × 6" },
         { "name": "Skoki na skrzynię", "spec": "4 × 5" },
-        { "name": "Mountain climbers", "spec": "4 × 30 s" },
+        { "name": "Wykroki w marszu", "spec": "3 × 12 na stronę" },
+        { "name": "Drabinka koordynacyjna", "spec": "5 serii" },
         { "name": "Skręty rosyjskie", "spec": "3 × 20" }
       ],
       "week": [
-        { "day": "Pn", "session": "Ciężka siła" },
+        { "day": "Pn", "session": "Siła całego ciała" },
         { "day": "Wt", "session": "Plyometria" },
         { "day": "Śr", "session": "Interwały kondycyjne" },
         { "day": "Czw", "session": "Zwinność i praca nóg" },
         { "day": "Pt", "session": "Tułów i mobilność" }
       ]
     },
-    "midfielder": {
-      "name": "Pomocnik",
-      "codes": "CDM · CM · CAM · LM · RM",
-      "tagline": "Prowadź grę przez 90 minut.",
-      "description": "Środek pola wymaga wszystkiego naraz. Hoopr buduje wytrzymałość, zwinność i mobilność, dzięki którym kontrolujesz grę od pierwszego do ostatniego gwizdka.",
-      "strengths": "Środek pola wymaga wszystkiego naraz. Hoopr przygotowuje cię na całe 90 minut.",
-      "weaknesses": "Pomocnicy, którzy pomijają mobilność, częściej łapią urazy w końcówkach meczów. Hoopr na to nie pozwoli.",
+    "power-forward": {
+      "name": "Silny skrzydłowy",
+      "codes": "PF · 4",
+      "tagline": "Rządź w farbie.",
+      "description": "Walka pod koszem to siła, eksplozywny wyskok i twardość, żeby walczyć przez 40 minut. Hoopr buduje moc do kończenia w kontakcie i sprężystość, by wygrywać każdą zbiórkę.",
+      "strengths": "Siła w ataku pozycyjnym, eksplozywny drugi wyskok i równowaga w kontakcie zaczynają się na siłowni. Hoopr trenuje to wszystko.",
+      "weaknesses": "Wysocy gracze, którzy ignorują zwinność, są wyciągani na obwód i ogrywani. Pilnujemy, żeby twoje nogi były dość szybkie do zmian.",
       "drills": [
-        { "name": "Sprinty interwałowe", "spec": "8 × 200 m" },
-        { "name": "Wykroki w marszu", "spec": "3 × 12 na stronę" },
-        { "name": "Burpees", "spec": "4 × 10" },
-        { "name": "Plank", "spec": "3 × 60 s" }
+        { "name": "Przysiad ze sztangą", "spec": "4 × 6" },
+        { "name": "Martwy ciąg trap-bar", "spec": "4 × 5" },
+        { "name": "Powtarzane skoki na skrzynię", "spec": "4 × 5" },
+        { "name": "Unoszenie nóg w zwisie", "spec": "3 × 12" }
       ],
       "week": [
-        { "day": "Pn", "session": "Baza wytrzymałościowa" },
-        { "day": "Wt", "session": "Siła" },
-        { "day": "Śr", "session": "Sprinty interwałowe" },
-        { "day": "Czw", "session": "Zwinność i zwroty" },
-        { "day": "Pt", "session": "Mobilność i regeneracja" }
+        { "day": "Pn", "session": "Ciężka siła" },
+        { "day": "Wt", "session": "Eksplozywna moc" },
+        { "day": "Śr", "session": "Zwinność i szybkość boczna" },
+        { "day": "Czw", "session": "Kondycja" },
+        { "day": "Pt", "session": "Tułów i mobilność" }
       ]
     },
-    "forward": {
-      "name": "Napastnik",
-      "codes": "ST · CF · LW · RW",
-      "tagline": "Wyprzedź. Wyskocz. Strzel.",
-      "description": "Eksplozywne przyspieszenie i ostre zmiany kierunku to twoja przewaga. Hoopr trenuje szybkość, moc i zwinność, które wprowadzają cię za obrońcę, plus siłę, żeby go utrzymać, kiedy już tam dotrzesz.",
-      "strengths": "Eksplozywne przyspieszenie i ostre zmiany kierunku to twoja przewaga. Hoopr trenuje to każdego tygodnia.",
-      "weaknesses": "Napastnicy, którzy pomijają siłę, przegrywają pojedynki przy linii. Pilnujemy, żebyś nie przegrał.",
+    "center": {
+      "name": "Środkowy",
+      "codes": "C · 5",
+      "tagline": "Broń środka.",
+      "description": "Środkowy chroni obręcz, zbiera z tablicy i kończy pod koszem. Hoopr buduje surową siłę, wyskok i mobilność bioder, by dominować w farbie po obu stronach.",
+      "strengths": "Obrona obręczy i zbiórki biorą się z siły i szybkiego drugiego wyskoku. Hoopr buduje oba, plus mobilność, której wysokim zwykle brakuje.",
+      "weaknesses": "Środkowi, którzy pomijają mobilność, tracą biodra i wyskok. Pilnujemy, żebyś był sprężysty i zabezpieczony.",
       "drills": [
-        { "name": "Depth jumps", "spec": "4 × 5" },
-        { "name": "Przysiady ze skokiem", "spec": "4 × 8" },
-        { "name": "Drabinka koordynacyjna", "spec": "5 serii" },
-        { "name": "Wspięcia na palce", "spec": "3 × 15" }
+        { "name": "Martwy ciąg trap-bar", "spec": "4 × 5" },
+        { "name": "Wspięcia na palce", "spec": "3 × 15" },
+        { "name": "Trening wyskoku", "spec": "4 × 5" },
+        { "name": "Mobilność bioder", "spec": "3 × 60 s" }
       ],
       "week": [
-        { "day": "Pn", "session": "Eksplozywne nogi" },
-        { "day": "Wt", "session": "Mechanika sprintu" },
-        { "day": "Śr", "session": "Zwinność i wykończenia" },
-        { "day": "Czw", "session": "Moc górnej części ciała" },
-        { "day": "Pt", "session": "Plyometria i mobilność" }
+        { "day": "Pn", "session": "Siła maksymalna" },
+        { "day": "Wt", "session": "Wyskok i moc" },
+        { "day": "Śr", "session": "Regeneracja i mobilność" },
+        { "day": "Czw", "session": "Zbiórki i tułów" },
+        { "day": "Pt", "session": "Kondycja" }
       ]
     }
   },

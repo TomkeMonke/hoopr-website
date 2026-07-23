@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Hoopr - football training for your position",
+    "title": "Hoopr - basketball training for your position",
     "description": "A training app that knows your position. One plan, built around your level, your week, and the goals you actually care about."
   },
   "nav": {
@@ -22,12 +22,12 @@
     "badge": "Loved by 1600+ players · {rating} rating",
     "titleLine1": "Stop playing.",
     "titleLine2": "Start dominating.",
-    "subtitle": "Hoopr is the football training app that actually knows your position. You get a plan shaped to your role, your level, and the time you've got.",
+    "subtitle": "Hoopr is the basketball training app that actually knows your position. You get a plan shaped to your role, your level, and the time you've got.",
     "downloadCta": "Download"
   },
   "usedBy": {
     "title": "1600+ players train with us",
-    "subtitle": "From U14s to semi-pro, in 50+ countries, every single day.",
+    "subtitle": "From middle school to semi-pro, in 50+ countries, every single day.",
     "stats": [
       { "value": "1600+", "label": "Active players" },
       { "value": "80+", "label": "Countries" },
@@ -42,7 +42,7 @@
       {
         "eyebrow": "Step 01",
         "title": "Pick your position",
-        "body": "Striker, winger, keeper, whatever you play, we shape the plan around what your role actually asks of you."
+        "body": "Point guard, wing, big, whatever you play, we shape the plan around what your role actually asks of you."
       },
       {
         "eyebrow": "Step 02",
@@ -61,7 +61,7 @@
     "items": [
       {
         "title": "Drills chosen for your spot",
-        "body": "Goalkeeper, defender, midfielder, forward. Every drill is picked for what your position actually demands."
+        "body": "Point guard, shooting guard, small forward, power forward, center. Every drill is picked for what your position actually demands."
       },
       {
         "title": "A calendar that fits your week",
@@ -73,7 +73,7 @@
       },
       {
         "title": "Stretching that matches your game",
-        "body": "Mobility work aimed at the muscles you actually use on the pitch, not a generic cooldown."
+        "body": "Mobility work aimed at the muscles you actually use on the court, not a generic cooldown."
       }
     ]
   },
@@ -82,33 +82,33 @@
     "items": [
       {
         "name": "Alex M.",
-        "role": "U17 Midfielder",
-        "quote": "Honestly didn't expect much, but after a month my coach said I was positioning way better. Stamina is crazy now too."
+        "role": "U17 Point Guard",
+        "quote": "Honestly didn't expect much, but after a month my coach said my handles and burst looked way better. Conditioning is night and day too."
       },
       {
         "name": "Sara K.",
-        "role": "U16 Defender",
+        "role": "Varsity Guard",
         "quote": "My friend showed me the app and now I'm on it every day. Drills actually make sense for my position."
       },
       {
         "name": "Daniel R.",
-        "role": "Semi-pro Forward",
+        "role": "Semi-pro Wing",
         "quote": "The position-specific stuff is what hooked me. Every drill feels like it's for my game."
       },
       {
         "name": "Jakub W.",
-        "role": "U19 Goalkeeper",
-        "quote": "Goalkeeper-specific work is rare in apps. Hoopr nails it. My reactions and footwork are both up."
+        "role": "College Center",
+        "quote": "Big-man work is rare in apps. Hoopr nails it. My rebounding and second jump are both up."
       },
       {
         "name": "Maya L.",
-        "role": "Academy Midfielder",
+        "role": "AAU Guard",
         "quote": "I love the calendar - it adapts when I miss a day instead of guilt-tripping me."
       },
       {
         "name": "Tomasz B.",
-        "role": "Sunday League Defender",
-        "quote": "30 minutes a day, 4 days a week, and I feel like a different player on Sundays."
+        "role": "Rec League Forward",
+        "quote": "30 minutes a day, 4 days a week, and I feel like a different player on game night."
       }
     ]
   },
@@ -148,7 +148,7 @@
       },
       {
         "q": "I'm just starting out - is this too advanced?",
-        "a": "Hoopr meets you where you are. You set your level during onboarding, and the plan scales volume and difficulty around it. A first-time trainer gets a different week than someone already playing club football five days a week."
+        "a": "Hoopr meets you where you are. You set your level during onboarding, and the plan scales volume and difficulty around it. A first-time trainer gets a different week than someone already playing club basketball five days a week."
       },
       {
         "q": "What if I play multiple positions?",
@@ -178,88 +178,109 @@
     "drillsTitle": "What your sessions look like",
     "strengthsTitle": "Your edge",
     "weaknessTitle": "What we'll fix",
-    "goalkeeper": {
-      "name": "Goalkeeper",
-      "codes": "GK",
-      "tagline": "Reactions. Positioning. Command.",
-      "description": "Reflexes and positioning are what make great keepers. Hoopr sharpens both with reaction work, lateral movement, and core stability - the stuff most apps skip.",
-      "strengths": "Hoopr builds the explosive lateral mobility, reaction speed, and core stability that separate good keepers from great ones.",
-      "weaknesses": "Most keepers quietly skip lateral mobility and lower-body power. We won't let you.",
+    "point-guard": {
+      "name": "Point Guard",
+      "codes": "PG · 1",
+      "tagline": "Run the offense.",
+      "description": "The floor general lives on quickness, handles, and a bottomless engine. Hoopr sharpens your first step, your change of pace, and the conditioning to push tempo for a full game.",
+      "strengths": "Explosive first step, ball-handling stability, and the stamina to run the point wire to wire - Hoopr trains all three.",
+      "weaknesses": "Guards who skip strength get bullied on switches. We build the core and lower-body power to hold your ground.",
       "drills": [
-        { "name": "Reaction ball drills", "spec": "3 × 60s" },
-        { "name": "Lateral band walks", "spec": "4 × 12" },
-        { "name": "Single-leg squats", "spec": "3 × 8 each side" },
+        { "name": "Lateral quickness ladder", "spec": "5 sets" },
+        { "name": "Single-leg bounds", "spec": "4 × 6 each" },
+        { "name": "Interval sprints", "spec": "8 × 100m" },
+        { "name": "Pallof press", "spec": "3 × 12 each" }
+      ],
+      "week": [
+        { "day": "Mon", "session": "Speed & agility" },
+        { "day": "Tue", "session": "Lower-body strength" },
+        { "day": "Wed", "session": "Conditioning intervals" },
+        { "day": "Thu", "session": "Core & stability" },
+        { "day": "Fri", "session": "Mobility & recovery" }
+      ]
+    },
+    "shooting-guard": {
+      "name": "Shooting Guard",
+      "codes": "SG · 2",
+      "tagline": "Get to your spots.",
+      "description": "Coming off screens, rising up, and running the wing takes explosive legs and repeatable mechanics. Hoopr builds the vertical, the lateral speed, and the endurance to keep your shot honest late.",
+      "strengths": "Explosive elevation and sharp cuts are your edge. Hoopr trains the hops, the pace, and the balance behind a repeatable jumper.",
+      "weaknesses": "Shooters who neglect conditioning watch their legs - and their percentages - fade in the fourth. We keep yours fresh.",
+      "drills": [
+        { "name": "Depth jumps", "spec": "4 × 5" },
+        { "name": "Lateral shuffle drills", "spec": "5 sets" },
+        { "name": "Split-squat jumps", "spec": "4 × 8" },
         { "name": "Plank with reach", "spec": "3 × 45s" }
       ],
       "week": [
-        { "day": "Mon", "session": "Lower-body strength" },
-        { "day": "Tue", "session": "Reactions & footwork" },
-        { "day": "Wed", "session": "Core & stability" },
-        { "day": "Thu", "session": "Recovery & stretching" },
-        { "day": "Fri", "session": "Plyometrics & explosiveness" }
+        { "day": "Mon", "session": "Explosive lower body" },
+        { "day": "Tue", "session": "Speed & footwork" },
+        { "day": "Wed", "session": "Conditioning" },
+        { "day": "Thu", "session": "Upper-body strength" },
+        { "day": "Fri", "session": "Plyometrics & mobility" }
       ]
     },
-    "defender": {
-      "name": "Defender",
-      "codes": "CB · LB · RB",
-      "tagline": "Win every duel.",
-      "description": "Aerial wins, clean tackles, quick recovery runs - it all starts in the gym. Hoopr builds the strength and stamina that carry 1v1s and clear lines.",
-      "strengths": "Aerial wins and tackling power start in the gym. Hoopr trains both, plus the agility most defenders quietly skip.",
-      "weaknesses": "Defenders often skip agility - quick feet save goals too. We keep yours sharp.",
+    "small-forward": {
+      "name": "Small Forward",
+      "codes": "SF · 3",
+      "tagline": "Do it all.",
+      "description": "The wing has to guard everyone and score every way. Hoopr builds the two-way engine - strength to finish through contact, agility to switch, and the mobility to hold up all game.",
+      "strengths": "Two-way versatility asks for the full toolkit. Hoopr builds the strength, speed, and stamina to do a bit of everything.",
+      "weaknesses": "Wings who skip mobility break down late and pick up soft-tissue injuries. Hoopr keeps you durable.",
       "drills": [
-        { "name": "Barbell squat", "spec": "4 × 6" },
         { "name": "Box jumps", "spec": "4 × 5" },
-        { "name": "Mountain climbers", "spec": "4 × 30s" },
+        { "name": "Walking lunges", "spec": "3 × 12 each" },
+        { "name": "Agility ladder drills", "spec": "5 sets" },
         { "name": "Russian twists", "spec": "3 × 20" }
       ],
       "week": [
-        { "day": "Mon", "session": "Heavy strength" },
+        { "day": "Mon", "session": "Full-body strength" },
         { "day": "Tue", "session": "Plyometrics" },
-        { "day": "Wed", "session": "Cardio intervals" },
+        { "day": "Wed", "session": "Conditioning intervals" },
         { "day": "Thu", "session": "Agility & footwork" },
         { "day": "Fri", "session": "Core & mobility" }
       ]
     },
-    "midfielder": {
-      "name": "Midfielder",
-      "codes": "CDM · CM · CAM · LM · RM",
-      "tagline": "Run the game for 90 minutes.",
-      "description": "Box-to-box asks for the full toolkit. Hoopr builds the engine, the agility, and the mobility you need to run the middle from the first whistle to the last.",
-      "strengths": "Box-to-box asks for the full toolkit. Hoopr gets you ready for the whole 90.",
-      "weaknesses": "Central midfielders who skip mobility pick up more late-game injuries. Hoopr won't let that slide.",
+    "power-forward": {
+      "name": "Power Forward",
+      "codes": "PF · 4",
+      "tagline": "Own the paint.",
+      "description": "Battling inside means strength, explosive lift, and the toughness to bang for 40 minutes. Hoopr builds the power to finish through contact and the spring to win every rebound.",
+      "strengths": "Post power, second-jump explosiveness, and contact balance start in the gym. Hoopr trains all of it.",
+      "weaknesses": "Bigs who ignore agility get pulled out to the perimeter and burned. We keep your feet quick enough to switch.",
       "drills": [
-        { "name": "Interval sprints", "spec": "8 × 200m" },
-        { "name": "Walking lunges", "spec": "3 × 12 each" },
-        { "name": "Burpees", "spec": "4 × 10" },
-        { "name": "Plank holds", "spec": "3 × 60s" }
+        { "name": "Barbell squat", "spec": "4 × 6" },
+        { "name": "Trap-bar deadlift", "spec": "4 × 5" },
+        { "name": "Repeat box jumps", "spec": "4 × 5" },
+        { "name": "Hanging leg raises", "spec": "3 × 12" }
       ],
       "week": [
-        { "day": "Mon", "session": "Endurance base" },
-        { "day": "Tue", "session": "Strength" },
-        { "day": "Wed", "session": "Sprint intervals" },
-        { "day": "Thu", "session": "Agility & turns" },
-        { "day": "Fri", "session": "Mobility & recovery" }
+        { "day": "Mon", "session": "Heavy strength" },
+        { "day": "Tue", "session": "Explosive power" },
+        { "day": "Wed", "session": "Agility & lateral speed" },
+        { "day": "Thu", "session": "Conditioning" },
+        { "day": "Fri", "session": "Core & mobility" }
       ]
     },
-    "forward": {
-      "name": "Forward",
-      "codes": "ST · CF · LW · RW",
-      "tagline": "Outpace. Outjump. Outscore.",
-      "description": "Explosive acceleration and sharp changes of direction are your edge. Hoopr trains the pace, the power, and the agility that get you in behind, plus the strength to hold defenders off when you do.",
-      "strengths": "Explosive acceleration and sharp changes of direction are your edge. Hoopr trains them every single week.",
-      "weaknesses": "Forwards who skip strength lose the touchline duels. We make sure you don't.",
+    "center": {
+      "name": "Center",
+      "codes": "C · 5",
+      "tagline": "Anchor the middle.",
+      "description": "The five protects the rim, cleans the glass, and finishes inside. Hoopr builds the raw strength, the vertical pop, and the hip mobility to dominate the paint on both ends.",
+      "strengths": "Rim protection and rebounding come from strength and a quick second jump. Hoopr builds both, plus the mobility bigs usually lack.",
+      "weaknesses": "Centers who skip mobility lose their hips and their lift. We keep you springy and protected.",
       "drills": [
-        { "name": "Depth jumps", "spec": "4 × 5" },
-        { "name": "Jump squats", "spec": "4 × 8" },
-        { "name": "Agility ladder drills", "spec": "5 sets" },
-        { "name": "Calf raises", "spec": "3 × 15" }
+        { "name": "Trap-bar deadlift", "spec": "4 × 5" },
+        { "name": "Standing calf raises", "spec": "3 × 15" },
+        { "name": "Vertical jump work", "spec": "4 × 5" },
+        { "name": "Hip mobility flow", "spec": "3 × 60s" }
       ],
       "week": [
-        { "day": "Mon", "session": "Explosive lower body" },
-        { "day": "Tue", "session": "Sprint mechanics" },
-        { "day": "Wed", "session": "Agility & finishing" },
-        { "day": "Thu", "session": "Upper-body power" },
-        { "day": "Fri", "session": "Plyometrics & mobility" }
+        { "day": "Mon", "session": "Max strength" },
+        { "day": "Tue", "session": "Vertical & power" },
+        { "day": "Wed", "session": "Recovery & mobility" },
+        { "day": "Thu", "session": "Rebounding & core" },
+        { "day": "Fri", "session": "Conditioning" }
       ]
     }
   },
@@ -332,7 +353,7 @@
         "heading": "What information does the Application obtain and how is it used?",
         "paragraphs": [
           "The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.",
-          "The Service Provider may also use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions. The Application also sends local reminders and notifications from your device, such as training-day and match reminders, which you can turn off at any time in your device settings.",
+          "The Service Provider may also use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions. The Application also sends local reminders and notifications from your device, such as training-day and game reminders, which you can turn off at any time in your device settings.",
           "The Service Provider uses this information to create and adapt your personalized training and nutrition plans, operate your account, and improve the Application. Some of this information - in particular body metrics and injury status - is treated as special-category (health-related) data under data-protection law. The Service Provider processes it only on the basis of your explicit consent, which you give by choosing to enter this optional information so that the Application can personalize your plans. You can withdraw your consent at any time by removing the data in Settings or deleting your account, without affecting the rest of the Application. When you create an account and use the Application, the Service Provider may collect the following categories of personal data:"
         ],
         "bullets": [
@@ -340,8 +361,8 @@
           "Sign-in data: if you sign in with Apple or Google, the name and email address (including an Apple private-relay email, if you use one) that the provider shares with the Application.",
           "Profile and body data you enter: your age or date of birth, gender, height, weight and weight history, nationality, and playing position.",
           "Training and lifestyle preferences: your goals, focus areas, experience level, available equipment and gym access, training days and session length, team status, and dietary preferences.",
-          "Health-related information you choose to provide, such as your current injury status and how nervous or confident you feel before matches. This is optional and the Application works without it.",
-          "Activity and performance data generated as you use the Application, such as completed sessions and drills, effort and feedback ratings, and match self-evaluations.",
+          "Health-related information you choose to provide, such as your current injury status and how nervous or confident you feel before games. This is optional and the Application works without it.",
+          "Activity and performance data generated as you use the Application, such as completed sessions and drills, effort and feedback ratings, and game self-evaluations.",
           "Subscription and purchase data, as described in the next section."
         ]
       },

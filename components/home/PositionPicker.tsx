@@ -12,7 +12,7 @@ interface Props {
 }
 
 export function PositionPicker({ dict, locale }: Props) {
-  const [active, setActive] = useState<PositionSlug>("midfielder");
+  const [active, setActive] = useState<PositionSlug>("point-guard");
   const pos = dict.positions[active];
   const data = POSITIONS[active];
   const t = dict.positionPicker;

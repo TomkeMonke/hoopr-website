@@ -2,7 +2,13 @@
  * Shared position data. Keep in sync with dictionaries[locale].positions.
  * `slug` maps to /training/[position] and to the dictionary key.
  */
-export const POSITION_SLUGS = ["goalkeeper", "defender", "midfielder", "forward"] as const;
+export const POSITION_SLUGS = [
+  "point-guard",
+  "shooting-guard",
+  "small-forward",
+  "power-forward",
+  "center",
+] as const;
 export type PositionSlug = (typeof POSITION_SLUGS)[number];
 
 /** Render order for focus-breakdown bars (PositionPicker + position pages). */
@@ -20,25 +26,30 @@ export interface PositionData {
 }
 
 export const POSITIONS: Record<PositionSlug, PositionData> = {
-  goalkeeper: {
-    slug: "goalkeeper",
-    accent: "#E8A44A",
-    focus: { strength: 25, cardio: 10, agility: 40, flexibility: 25 },
+  "point-guard": {
+    slug: "point-guard",
+    accent: "#F2711C",
+    focus: { strength: 15, cardio: 35, agility: 35, flexibility: 15 },
   },
-  defender: {
-    slug: "defender",
-    accent: "#5B9FD6",
-    focus: { strength: 35, cardio: 20, agility: 20, flexibility: 25 },
-  },
-  midfielder: {
-    slug: "midfielder",
-    accent: "#3A9A6A",
-    focus: { strength: 25, cardio: 35, agility: 25, flexibility: 15 },
-  },
-  forward: {
-    slug: "forward",
-    accent: "#7AB8E8",
+  "shooting-guard": {
+    slug: "shooting-guard",
+    accent: "#FF9142",
     focus: { strength: 25, cardio: 25, agility: 35, flexibility: 15 },
+  },
+  "small-forward": {
+    slug: "small-forward",
+    accent: "#E8A44A",
+    focus: { strength: 30, cardio: 25, agility: 30, flexibility: 15 },
+  },
+  "power-forward": {
+    slug: "power-forward",
+    accent: "#E8623A",
+    focus: { strength: 40, cardio: 15, agility: 25, flexibility: 20 },
+  },
+  center: {
+    slug: "center",
+    accent: "#D98A2B",
+    focus: { strength: 45, cardio: 10, agility: 20, flexibility: 25 },
   },
 };
 

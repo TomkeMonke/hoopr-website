@@ -4,18 +4,18 @@ import { join } from "node:path";
 import { isLocale } from "@/lib/locales";
 import { BRAND } from "@/lib/brand";
 
-export const alt = "Hoopr - football training that knows your position";
+export const alt = "Hoopr - basketball training that knows your position";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 const COPY = {
   en: {
     headline: "Stop playing.\nStart dominating.",
-    sub: "Football training that knows your position.",
+    sub: "Basketball training that knows your position.",
   },
   pl: {
     headline: "Przestań tylko grać.\nZacznij dominować.",
-    sub: "Trening piłkarski pod twoją pozycję.",
+    sub: "Trening koszykarski pod twoją pozycję.",
   },
 } as const;
 
