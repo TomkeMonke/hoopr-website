@@ -5,7 +5,7 @@
  */
 export const BRAND = {
   /** Hex form, e.g. for solid fills. */
-  primary: "#5b9fd6",
+  primary: "#f2711c",
   /** Comma-separated RGB channels, for `rgba(${primaryRgb}, a)` gradients. */
-  primaryRgb: "91, 159, 214",
+  primaryRgb: "242, 113, 28",
 } as const;

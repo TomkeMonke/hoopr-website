@@ -7,11 +7,11 @@
   --border: #2a2a35;
   --foreground: #eaeaef;
   --muted: #8a8a95;
-  --primary: #5b9fd6;
-  --primary-light: #7ab8e8;
-  --primary-dark: #3a7bb8;
+  --primary: #f2711c;
+  --primary-light: #ff9142;
+  --primary-dark: #c25411;
   /* RGB channels of --primary, for rgba() glows/shadows below. Keep in sync. */
-  --primary-rgb: 91, 159, 214;
+  --primary-rgb: 242, 113, 28;
   --accent: #e8a44a;
   /* RGB channels of --accent, for rgba() glows/shadows. Keep in sync. */
   --accent-rgb: 232, 164, 74;
