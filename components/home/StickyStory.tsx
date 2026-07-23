@@ -10,7 +10,9 @@ interface Props {
   locale: Locale;
 }
 
-const ACCENTS = ["#5B9FD6", "#E8A44A", "#8BD17C"];
+// Per-step accent tints (step 1 uses the Hoopr primary orange). Hex form is
+// required because the values get an alpha suffix appended (e.g. `${accent}55`).
+const ACCENTS = ["#F2711C", "#E8A44A", "#8BD17C"];
 
 const SCREENSHOTS_BY_LOCALE: Record<Locale, string[]> = {
   en: [
